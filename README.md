@@ -1,16 +1,6 @@
 # Linux_tutorijal_virtualne_masine
 DevOps na Linuxu pomoću Virt Managera.
 
-# Prvi seminar - Marino Linić
-Ovaj rad opisuje primjenu različitih virtualnih mašina na manipulaciju aplikacije sa bazom podataka, sustavom za kešing i samog backenda i frontenda aplikacije. 
-
-Cilj seminara je ostvariti komunikaciju između različitih instanci operacijskih sustava u virtualnom obliku.
-
-Slike ekrana koje prate korake ovog seminara nalaze se na linku: https://drive.google.com/drive/folders/1OPI7w3kKLDZQ_9eajqyBLovSQMVqQzSy?usp=sharing.
-
-Slike sam prikvačio na Imgur kako bih učinio čitanje lakšim i prikazao slike dok se seminar čita, s obzirom na to da Google Disk ne omogućuje opciju direktnog prikaza povezanih sadržaja (samo 'preview'.)
-
-
 <br/><br/>
 ## Postavljanje virtualnih mašina
 Instaliramo sustav za virtualne mašine,
